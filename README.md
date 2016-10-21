@@ -30,3 +30,6 @@ NVCounter is written in C#. To compile NVCounter, you need one of these versions
 
 Simply open the project with Visual Studio and it should be able to compile and run without any further configuration.
 
+## Credits
+
+Image Credits: Drunken Peasants Podcast
