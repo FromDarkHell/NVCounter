@@ -1,13 +1,13 @@
 # NVCounter
 
 NVCounter is a C# Counter for Fallout NV Speedrunners
-<p align="center">
+<p align="right">
   <img src="http://vignette4.wikia.nocookie.net/drunken-peasants-podcast/images/4/4a/Fallout_NV_logo.png/revision/latest?cb=20150705051619" alt="NVCounter"/>
 </p>
 
 ## Features
 
-**
+Unique Counter for All Unique Weapons and All Unique Clothes
 
 ## Contributing
 
