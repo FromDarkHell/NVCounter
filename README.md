@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/FromDarkHell/NVCounter.png?label=ready&title=Ready)](https://waffle.io/FromDarkHell/NVCounter)
 # NVCounter
 
 NVCounter is a C# Counter for Fallout NV Speedrunners
